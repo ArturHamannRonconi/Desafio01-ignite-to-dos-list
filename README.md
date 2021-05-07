@@ -1,8 +1,8 @@
 # To Dos List
 
-```
-Este é um desáfio que estou cumprido para o ignite, um bootcamp da Rocketseat, o objetivo é fazer uma API que cumpra os requisitos necessários mínimos para fazer uma lista ToDos
-```
+
+Este é um desáfio que estou cumprido para o ignite, um bootcamp da Rocketseat, o objetivo é fazer uma API que cumpra os requisitos necessários mínimos para fazer uma lista ToDos.
+
 ----
 ## Requirements
 
